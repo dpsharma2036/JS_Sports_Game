@@ -1,0 +1,31 @@
+
+
+.hide {
+    display: none;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+.clear {
+    clear: both;
+}
+#reset-container, h1 {
+    text-align: center;
+    
+
+}
+#reset-button{
+    background-color: aqua;
+    color:red
+}
+#teamone-shoot-button{
+    background-color: yellow;
+    color:red;
+}
+#teamtwo-shoot-button{
+    background-color: yellow;
+    color:red;
+}
